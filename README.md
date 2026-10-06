@@ -15,9 +15,10 @@ An enthusiastic **BS Artificial Intelligence & Robotics** student passionate abo
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages & Core:**
+**Languages & Web Fundamentals:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Machine Learning & Web:**
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
