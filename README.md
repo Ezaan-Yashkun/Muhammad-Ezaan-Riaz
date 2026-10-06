@@ -44,5 +44,5 @@ An enthusiastic **BS Artificial Intelligence & Robotics** student passionate abo
 ---
 
 ### 🌐 Connect With Me
-- 💼 **LinkedIn:** [Your LinkedIn Profile URL]
-- 📧 **Email:** [Your Email Address]
+- 💼 **LinkedIn:** [www.linkedin.com/in/muhaammad-ezaan-riaz-447490371]
+- 📧 **Email:** [muhammadezaanriaz@gmail.com]
