@@ -37,9 +37,8 @@ An enthusiastic **BS Artificial Intelligence & Robotics** student passionate abo
 
 ---
 
-### 🚀 Current Projects
-- 🚗 **Used Vehicle Price Predictor:** A Machine Learning web application built with Scikit-Learn and Flask to estimate market values of vehicles.
-- 📊 **Data Analysis & Processing Projects:** Python-based automation and data cleaning scripts.
+### 🚀 Learning & Upcoming Projects
+- ⏳ **ML & Flask Mini-Project (In Progress):** Currently learning and building my first ML predictive web application using Python and Flask.
 
 ---
 
