@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Ezaan Riaz 👋
+# Hi there, **I'm Muhammad Ezaan Riaz 👋**
 
 An enthusiastic **BS Artificial Intelligence & Robotics** student passionate about Machine Learning, Data Science, and Web Application development using Python and Flask.
 
